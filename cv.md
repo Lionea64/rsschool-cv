@@ -3,7 +3,7 @@
 # Ekaterina Bagaeva
 
 ## My contact info
-* Phone: 8-927-130-06-67
+* Phone: 8-953-633-12-30
 * Email: plastilin71@mail.ru
 * Github: Lionea64
 
