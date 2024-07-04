@@ -1,4 +1,4 @@
-![](1myfoto.jpg)
+![](myfoto.jpg)
 
 # Ekaterina Bagaeva
 
