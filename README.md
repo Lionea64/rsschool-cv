@@ -1,1 +1,1 @@
-https://Lionea64.github.io/rsschool-cv/
+https://Lionea64.github.io/rsschool-cv
