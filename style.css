@@ -1,1 +1,51 @@
-test
+* {
+    box-sizing: border-box;
+}
+body {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;}
+    
+    html {
+        scroll-behavior: smooth;
+      }
+
+   .nav-list {
+        display: flex;
+        justify-content: flex-end;
+        align-items: center;
+      }
+
+      .nav-list {
+        list-style: none;
+      }
+
+      .nav-link {
+        padding: 0 20px;
+        line-height: 50px;
+      }
+
+      .container {
+        max-width: 1440px;
+        margin: 0 auto;
+      }
+
+    body {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: purple;
+    background-color: #cfd68f }
+    h1 {
+     font-family: Arial, Helvetica, sans-serif }
+     
+footer {
+    background-color:#91b1d1;
+    margin:0;
+    padding:0;
+    width:60vw;
+    height:25vh;
+    float:right;
+    overflow:auto;
+    
+    background: url(LogoRS.png) 50% 0  no-repeat; 
+    
+       }
